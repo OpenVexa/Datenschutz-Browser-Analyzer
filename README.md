@@ -1,3 +1,5 @@
+Website: [https://openvexa.de](https://openvexa.de) 
+
 # 🕵️‍♀️ Datenschutz Browser Analyzer
 
 Der **Datenschutz Browser Analyzer** ist ein leichtgewichtiges, clientseitiges Tool zur Bewertung von Datenschutzrisiken im Webbrowser. Es erkennt gängige Tracking-Techniken wie Cookies, Local Storage, Session Storage und identifiziert potenziell sensible Tracker.
@@ -71,7 +73,7 @@ Erstelle einfach ein [Issue](https://github.com/dein-benutzername/datenschutz-br
 
 ## 📩 Kontakt
 
-**Website:** [https://openvexa.de](https://openvexa.de)  
-**E-Mail:** info@openvexa.de
+ 
+Mail:** info@openvexa.de
 
 
